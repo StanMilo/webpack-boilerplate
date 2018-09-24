@@ -1,0 +1,17 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Webpack, ES6, handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stanko",
+  "license": "ISC",
+  "devDependencies": {
+    "handlebars": "^4.0.10",
+    "handlebars-loader": "^1.5.0",
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.1.0"
+  }
+}
